@@ -22,9 +22,7 @@ Am Yisrael Chai.
 
 [docs/compile.md](docs/compile.md)
 
-## Download
 
-[download latest library](https://github.com/jmpews/Mossad/releases/tag/latest)
 
 ## Credits
 
